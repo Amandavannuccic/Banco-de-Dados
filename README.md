@@ -1,3 +1,3 @@
-# Banco-de-Dados ![image](https://github.com/Amandavannuccic/Banco-de-Dados/assets/127263243/a70c05b9-79fd-4c14-8d52-9cfb331aa6a2)
+# Banco-de-Dados ![image](https://github.com/Amandavannuccic/Banco-de-Dados/assets/127263243/ecb2634a-dd9c-4aeb-8e04-f7c6b1d1326e)
 
 Neste repositório disponibilizo meu conhecimento sobre banco de dados.
